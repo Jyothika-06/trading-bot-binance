@@ -21,6 +21,8 @@ trading_bot/
 │   └── trading_bot.log    # Sample log output (included)
 ├── README.md
 └── requirements.txt
+├── .gitignore
+├── .env
 ```
 
 ---
